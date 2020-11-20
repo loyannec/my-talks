@@ -15,4 +15,4 @@ Date | Event / Channel | Lecture | Language | Minute
 
 Date | Channel | Theme | Language
 :--- | :--- | :--- | :--- | :---
-17/11/2020 | [Gabs Ferreira](https://www.youtube.com/channel/UCIQ4a2e9ZcDQhA7QU9NllKg) | [A médica que se tornou dev: Loyanne Repolho](https://www.youtube.com/watch?v=ZgJhKcucrWM) | Pt-br
+17/11/2020 | [Gabs Ferreira](https://www.youtube.com/channel/UCIQ4a2e9ZcDQhA7QU9NllKg) | [A médica que se tornou dev: Loyanne Repolho](https://www.youtube.com/watch?v=ZgJhKcucrWM) | Pt-br |

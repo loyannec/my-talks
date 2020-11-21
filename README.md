@@ -14,5 +14,6 @@ Date | Event / Channel | Lecture | Language | Minute
 ###### Participation in lives
 
 Date | Channel | Theme | Language
-:--- | :--- | :--- | :--- | :---
-17/11/2020 | [Gabs Ferreira](https://www.youtube.com/channel/UCIQ4a2e9ZcDQhA7QU9NllKg) | [A médica que se tornou dev: Loyanne Repolho](https://www.youtube.com/watch?v=ZgJhKcucrWM) | Pt-br |
+:--- | :--- | :--- | :---
+10/10/2020 | [Canal Flai Inteligência Artificial](https://www.youtube.com/channel/UCbX5jWHGu-6_4CRhLmRuxcQ) | [Carreira de Dados no Exterior](https://www.youtube.com/watch?v=vExYIFW_OG8&t=1s) | Pt-br |
+17/11/2020 | [Gabs Ferreira](https://www.youtube.com/channel/UCIQ4a2e9ZcDQhA7QU9NllKg) | [A médica que se tornou dev](https://www.youtube.com/watch?v=ZgJhKcucrWM) | Pt-br |
